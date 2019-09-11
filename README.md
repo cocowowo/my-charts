@@ -1,4 +1,4 @@
-# my-charts
+## my-charts
 
 ## Add helm chart repository to your environment
 
