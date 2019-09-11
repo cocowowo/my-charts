@@ -8,6 +8,6 @@ entries:
     digest: 611bf5a3ee7b0a33732ebd8fb0bc4c5461d6eb87eeb3fe24191c62e876b298ca
     name: demo
     urls:
-    - https://cocowowo.github.io/my-chart/stable/demo-0.1.0.tgz
-    version: 0.1.0
+    - https://cocowowo.github.io/my-chart/stable/demo-0.1.1.tgz
+    version: 0.1.1
 generated: "2019-09-11T06:52:18.914419202Z"
